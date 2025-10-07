@@ -42,7 +42,7 @@ Modern, feature-rich ve kullanıcı dostu bir yapılacaklar listesi uygulaması.
 
 ```bash
 # 1. Projeyi klonlayın (veya zip indirin)
-git clone https://github.com/kullanici/smart-todo.git
+git clone https://github.com/UfukSeker41/smart-todo.git
 cd smart-todo
 
 # 2. Bağımlılıkları yükleyin
