@@ -326,7 +326,7 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır.
 ## 📧 İletişim
 
 Sorularınız veya önerileriniz için:
-- **GitHub Issues**: [Proje Issues](https://github.com/UfukSeker41/smart-todo)
+- **GitHub Issues**: [Proje Issues](https://github.com/UfukSeker41)
 - **Email**: sekerufuk246@gmail.com
 
 ## 🙏 Teşekkürler
